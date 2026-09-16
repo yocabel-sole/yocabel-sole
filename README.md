@@ -5,6 +5,9 @@
 
 Here are some ideas to get you started:
 
+ 🛠️ Languages & Tools
+[![My Skills](https://skillicons.dev/icons?i=python,php,js,c,mysql,django,streamlit,tensorflow,,git,github,vscode,jupyter)](https://skillicons.dev)
+ 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
