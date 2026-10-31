@@ -4,7 +4,7 @@
 
 ## About Me
 
-I studied Electrical and Computer Engineering at Mekelle University, Ethiopia, with a strong interest in Data Science, Artificial Intelligence, and Machine Learning. I enjoy using programming and data-driven approaches to understand complex problems and develop practical solutions. My academic background and project experience have introduced me to machine learning, computer vision, data analysis, and software development. I am particularly interested in exploring how data science and AI can contribute to addressing challenges **that directly impact community well-being**.
+I studied Electrical and Computer Engineering at Mekelle University, Ethiopia, with a strong interest in Data Science, Artificial Intelligence, and Machine Learning. I enjoy using programming and data-driven approaches to understand complex problems and develop practical solutions. My academic background and project experience have introduced me to machine learning, computer vision, data analysis, and software development. I am particularly interested in exploring how data science and AI can contribute to addressing challenges that directly impact community well-being.
 
 ## Technical Skills
 
